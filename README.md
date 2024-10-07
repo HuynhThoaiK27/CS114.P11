@@ -1,4 +1,3 @@
-Dưới đây là phiên bản đã chỉnh sửa để đảm bảo định dạng đẹp và dễ đọc:
 
 ---
 
