@@ -110,7 +110,7 @@ Bộ dữ liệu sử dụng trong dự án được lưu trữ trên Kaggle. B�
   - TensorFlow/Keras: Dùng để xây dựng và huấn luyện mô hình học sâu.  
   - NumPy, Pandas: Xử lý dữ liệu.  
   - Matplotlib: Trực quan hóa dữ liệu và kết quả.  
-- **Mô hình**: Convolutional Neural Network (CNN) để nhận diện và phân loại hình ảnh xe.  
+- **Mô hình**: LogisticRegression và K-Means Clustering để nhận diện và phân loại hình ảnh xe.  
 
 ---
 
