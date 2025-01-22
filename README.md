@@ -52,6 +52,6 @@
 ## ĐỒ ÁN MÔN HỌC
 <a name="do-an-mon-hoc"></a>
 
-1. **Tên đồ án**: Nhận diện xe
+1. **Tên đồ án**: ỨNG DỤNG MACHINE LEARNING CHO BÀI TOÁN NHẬN DIỆN XE
 
 ---
