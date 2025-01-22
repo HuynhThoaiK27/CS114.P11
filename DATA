@@ -1,8 +1,8 @@
-## Dataset
-The dataset for this project is hosted on Kaggle. You can download it using the following link:
-[Download Dataset on Kaggle](https://www.kaggle.com/datasets/hunhthoi/dataset-car)
+### Dataset
+Bộ dữ liệu sử dụng trong dự án được lưu trữ trên Kaggle. Bạn có thể truy cập và tải về tại đây:  
+[Link đến dataset trên Kaggle](https://www.kaggle.com/datasets/hunhthoi/dataset-car)
 
-### How to use
-1. Visit the link above to download the dataset.
-2. Extract the data to the appropriate folder in your project.
-3. Follow the instructions in this repository for further usage.
+#### Cách sử dụng dataset
+1. Tải bộ dữ liệu từ liên kết trên.
+2. Giải nén bộ dữ liệu và đặt vào thư mục `data/` trong dự án.
+3. Làm theo hướng dẫn trong tài liệu hoặc mã nguồn để bắt đầu sử dụng.
