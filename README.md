@@ -57,7 +57,7 @@
 
 | STT | MSSV     | Họ và Tên         | Github          | Email                   |
 |-----|----------|-------------------|-----------------|-------------------------|
-| 1   | 22521425 | Huỳnh Văn Thoại   | [GitHub Link](#) | 22521425@gm.uit.edu.vn  |
+| 1   | 22521425 | Huỳnh Văn Thoại   | [https://github.com/HuynhThoaiK27(#) | 22521425@gm.uit.edu.vn  |
 | 2   | 22520318 | Lương Văn Duy     | [GitHub Link](#) | 22520318@gm.uit.edu.vn  |
 
 ---
